@@ -9,4 +9,4 @@ lagou:
   message: test
 
 mysql:
-  url: test
+  url: jdbc:mysql://localhost:3306/eureka_test?useUnicode=true&characterEncoding=utf8
